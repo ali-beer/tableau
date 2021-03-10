@@ -1,5 +1,7 @@
 Tableau Homework - Citi Bike Analytics
 
+Tableau profile url: https://public.tableau.com/profile/alison.beer
+
 Dashboard 1
 Bike trips reduced by 59% (6887) from 11,624 in Jan to 4737 in Feb 2021.
 In addition, subscriber use dropped by 88% (8,552) in the same period. Given numbers 
