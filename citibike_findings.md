@@ -1,5 +1,7 @@
 # Tableau Homework - Citi Bike Analytics
 
+Tableau profile url: https://public.tableau.com/profile/alison.beer
+
 ### Dashboard 1 findings
 Bike trips reduced by 59% (6887) from 11,624 in Jan to 4737 in Feb 2021. In addition, subscriber use dropped by 88% (8,552) in the same period. Given numbers were stable at the start of winter, between Dec 2020 and Jan 2021, it may be possible Jersey City is experiencing socioeconomic hardship and/or lockdowns as a result of the coronavirus pandemic. Further investigation into the impact of this reduction on revenue is warranted. 
 
